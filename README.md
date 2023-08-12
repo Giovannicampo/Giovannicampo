@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I am a Computer Science student at University of Catania, keen on robotics and artificial intelligence. 
+#### I am Giovanni, a Computer Science student at University of Catania, keen on robotics and artificial intelligence. 
 I actively participated in several projects within my University robotics laboratory,
 worked along with a team of brilliant developers and engineers
 and enhanced my technical and social skills even beyond my primary expectations.
