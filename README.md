@@ -1,19 +1,23 @@
 ### Hi there 👋
 
-#### I am Giovanni, a Computer Science student at University of Catania, keen on robotics and artificial intelligence. 
-I actively participated in several projects within my University robotics laboratory,
-worked along with a team of brilliant developers and engineers
-and enhanced my technical and social skills even beyond my primary expectations.
-Now I am looking for new exciting challenges to improve and move up.
+#### I am Giovanni, a Computer Science student at University of Catania.
 
-### What have I done? 🤖
-I have studied microcontrollers firmware development, and their applications in IoT networks and robotics. I participated
-in two editions of Eurobot competition with my University team, where we respectively placed in 6th and 5th position.
-Our work mainly consists of designing robots capable of solving the tasks we are given from the
-competitions and developing one or more strategies in order to let them cooperate and achieve as
-many tasks as possible in a limited time.
+### What can you find here?
+Here there are some projects I have taken part yet and other nice stuff!
 
-#### You can take a look at some projects I took part across my Github repositories! 💻
+#### Robotics 🤖
+- [Kalman Filter](https://github.com/Giovannicampo/kalmanfilter) for two-wheeled mobile robots
+- [Robot Controller User Interface](https://github.com/Giovannicampo/robot-controller-ui)
 
-### What's next?
-I am currently look up for a job as a software engineer while studying in order to gain experience and learn as much as possible, especially from working world.
+#### Web 🌐
+- [in&out](https://github.com/Giovannicampo/in-and-out) -> not finished yet!
+- [terminal Js](https://github.com/Giovannicampo/terminal-js)
+
+#### Notes and exercises 📚
+- [Appunti per fondamenti d'informatica - Ingegneria](https://github.com/Giovannicampo/appunti-informatica-ing-industriale)
+- [Seismic sensor simulation](https://github.com/Giovannicampo/seismic_sensor_simulation)
+
+#### If you want to reach me outside take a look at the links underneath
+- [Linkedin](https://www.linkedin.com/in/giovanni-campo-96482717a/)
+- [giovanni.campo144@gmail.com](giovanni.campo144@gmail.com)
+
