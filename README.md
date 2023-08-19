@@ -11,9 +11,9 @@ Here are some projects I have done, from robotics to web development, and other 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,raspberrypi,java,python,html,css,js,nodejs,express,mongodb,postman,godot,git,linux)](https://skillicons.dev)
 
 ### Stats
-![Giovannicampo's Github stats](https://github-readme-stats.vercel.app/api?username=Giovannicampo&show_icons=true&theme=gruvbox&rank_icon=github)
+![Giovannicampo's Github stats](https://github-readme-stats.vercel.app/api?username=Giovannicampo&show_icons=true&theme=tokyonight&rank_icon=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovannicampo&layout=donut&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovannicampo&layout=donut&theme=tokyonight)
 
-![Activities](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giovannicampo&theme=gruvbox)
+![Activities](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giovannicampo&theme=tokyonight)
 
