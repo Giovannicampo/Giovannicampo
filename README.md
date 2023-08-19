@@ -11,9 +11,11 @@ Here are some projects I have done, from robotics to web development, and other 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,raspberrypi,java,python,html,css,js,nodejs,express,mongodb,postman,godot,git,linux)](https://skillicons.dev)
 
 ### Stats
-![Giovannicampo's Github stats](https://github-readme-stats.vercel.app/api?username=Giovannicampo&show_icons=true&theme=tokyonight)
+![Giovannicampo's Github stats](https://github-readme-stats.vercel.app/api?username=Giovannicampo&show_icons=true&theme=gruvbox)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovannicampo&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovannicampo&layout=donut&theme=gruvbox)
 
-![Activities](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giovannicampo&theme=tokyonight)
+![Activities](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giovannicampo&theme=gruvbox)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Giovannicampo&repo=KalmanFilter&theme=gruvbox)](https://github.com/Giovannicampo/KalmanFilter)
 
