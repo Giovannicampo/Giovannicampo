@@ -22,6 +22,8 @@ Here are some projects I have done, from robotics to web development, and other 
 
 
 ![Giovannicampo's Github stats](https://github-readme-stats.vercel.app/api?username=Giovannicampo&show_icons=true&theme=transparent)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovannicampo&layout=compact&theme=transparent)
+
 ![Activities](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giovannicampo&theme=github_dark)
 
