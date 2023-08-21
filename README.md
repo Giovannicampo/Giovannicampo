@@ -13,7 +13,7 @@ Here are some projects I have done, from robotics to web development, and other 
 ### Stats
 ![Giovannicampo's Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Giovannicampo&show_icons=true&theme=darcula&rank_icon=github)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Giovannicampo&layout=donut&theme=darcula)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Giovannicampo&theme=darcula)
 
 ![Activities](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giovannicampo&theme=darcula)
 
