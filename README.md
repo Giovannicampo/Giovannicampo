@@ -9,7 +9,7 @@ Here are some projects I have done, from robotics to web development, and other 
 
 ### Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovannicampo&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovannicampo&theme=tokyonight&layout=compact)
 
 ![Activities](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giovannicampo&theme=tokyonight)
 
