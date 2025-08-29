@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-#### I am Giovanni, a Computer Science student at University of Catania and developer at [@UniCT-ARSLAB](https://github.com/UniCT-ARSLab) 🤖
+#### I am Giovanni, a Computer Science student at University of Catania and developer at [@faradex](http://github.com/Faradex) and [@UniCT-ARSLAB](https://github.com/UniCT-ARSLab) 🤖
 
 ### What can you find here? 🪐
-Here are some projects I have done, from robotics to web development, and other nice stuff!
+Here are some projects I have worked at, from robotics to web development, and other nice stuff!
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,ts,react,nodejs,express,mongodb,postman,godot,processing,git,raspberrypi,arduino,linux,vscode&perline=10)](https://skillicons.dev)
 
