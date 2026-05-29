@@ -50,4 +50,4 @@
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 ### What can you find here? 🪐
-Here are some projects I have worked on, from robotics to web development, and other nice stuff!
+Lots of projects I worked on, from embedded and IoT to Web dev. If you have any questions or tips, please fork or contact me!
