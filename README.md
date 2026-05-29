@@ -51,3 +51,7 @@
 
 ### What can you find here? 🪐
 Lots of projects I worked on, from embedded and IoT to Web dev. If you have any questions or tips, please fork or contact me!
+
+<p align="center">
+  <img src="ok.png" width="100%" alt="Project 1" />
+</p>
