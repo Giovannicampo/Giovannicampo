@@ -11,8 +11,6 @@
 ![Ambiq](https://img.shields.io/badge/Ambiq-%23E31837.svg?style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)
-
-**IoT, Protocolli & Networking** <br>
 ![MQTT](https://img.shields.io/badge/MQTT-%233C5280.svg?style=for-the-badge&logo=mqtt&logoColor=white)
 ![SNMP](https://img.shields.io/badge/SNMP-%234B5563.svg?style=for-the-badge&logo=servers&logoColor=white)
 ![Wi-Fi](https://img.shields.io/badge/Wi--Fi-%23000000.svg?style=for-the-badge&logo=wi-fi&logoColor=white)
@@ -21,7 +19,7 @@
 ![LoRaWAN](https://img.shields.io/badge/LoRaWAN-%23FF9900.svg?style=for-the-badge)
 ![Zigbee](https://img.shields.io/badge/Zigbee-%23EB0414.svg?style=for-the-badge&logo=zigbee&logoColor=white)
 
-**Sviluppo Software & Web** <br>
+**Software & Web Dev** <br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -37,7 +35,7 @@
 ![Godot](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![Processing](https://img.shields.io/badge/Processing-%230096D8.svg?style=for-the-badge&logo=processing&logoColor=white)
 
-**Strumenti, IDE & OS** <br>
+**Tools, IDE & OS** <br>
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![esp-idf](https://img.shields.io/badge/ESP--IDF-%23E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
 ![mbedOS](https://img.shields.io/badge/mbed_OS-%2300AEEF.svg?style=for-the-badge&logo=arm&logoColor=white)
@@ -53,5 +51,5 @@
 Lots of projects I worked on, from embedded and IoT to Web dev. If you have any questions or tips, please fork or contact me!
 
 <p align="center">
-  <img src="ok.png" width="100%" alt="Project 1" />
+  <img src="pic.png" width="100%" alt="Project 1" />
 </p>
