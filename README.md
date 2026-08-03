@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I am Giovanni, a Computer Science student at University of Catania and developer at [@faradex](http://github.com/Faradex) and [@UniCT-ARSLAB](https://github.com/UniCT-ARSLab) 🤖
+#### I am Giovanni, a Computer Science student at University of Catania and developer at [@faradex](http://github.com/Faradex) 🤖
 
 **Embedded Systems & IoT** <br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
