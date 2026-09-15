@@ -41,7 +41,6 @@
 ![mbedOS](https://img.shields.io/badge/mbed_OS-%2300AEEF.svg?style=for-the-badge&logo=arm&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-%231A1919.svg?style=for-the-badge&logo=freertos&logoColor=20b2aa)
 ![Zephyr](https://img.shields.io/badge/Zephyr-%23782079.svg?style=for-the-badge&logo=zephyrproject&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-%230A0A0A.svg?style=for-the-badge&logo=ros&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%230078d7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23F6822B.svg?style=for-the-badge&logo=PlatformIO&logoColor=white)
