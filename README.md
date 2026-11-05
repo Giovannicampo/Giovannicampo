@@ -5,5 +5,5 @@ I am Giovanni, a Computer Science student at University of Catania and developer
 
 
 <p align="center">
-  <img src="pic2.png" width="100%" alt="Project 1" />
+  <img src="pic2.webp" width="100%" alt="Project 1" />
 </p>
